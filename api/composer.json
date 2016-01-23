@@ -1,0 +1,16 @@
+{
+  "name": "M4-MineralsWS",
+  "description": "",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marc Duran Olivé",
+      "email": "liamato97@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.6",
+    "liamato/ligght": "1.0.*"
+  }
+}

@@ -1,0 +1,56 @@
+html,
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+span{
+    font-weight: normal;
+}
+
+.main{
+    max-width: 70vw;
+    width: 100%;
+    margin: 1.5rem auto;
+}
+
+#select{
+    margin-bottom: 2rem;
+    width: 160px;
+}
+
+#mineral {
+    width: 100%;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+#mineral .titol{
+    background-color: darkcyan;
+    padding: 20px;
+    border-bottom: 5px solid #00658B;
+}
+
+.propietats{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    background-color: #D9E3FF;
+}
+
+#img {
+    min-width: 200px;
+}
+
+.desc {
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.hidden{
+    visibility: hidden;
+}
